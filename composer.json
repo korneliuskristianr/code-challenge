@@ -1,0 +1,15 @@
+{
+    "name": "korneliuskristianr/test-mindo",
+    "description": "Mindo Code Challenge Resolver",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "korneliuskristianr",
+            "email": "korneliuskristian@gmail.com"
+        }
+    ]
+}
